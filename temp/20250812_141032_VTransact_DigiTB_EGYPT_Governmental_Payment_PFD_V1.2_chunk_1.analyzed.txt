@@ -1,0 +1,231 @@
+2. The user can view the details of the bill by clicking on the ‘Channel Reference’
+value.
+3. The user can perform the ‘Verify’/‘Reject’ functions on the bill.
+4. On clicking the hyperlink of ‘Channel Reference’ value, user will navigate to
+the detailed page where the user can perform ‘Verify’ / ‘Reject ’ function. On
+the same screen, user will be able to view the Audit Trail of individual bill.
+Note: The user will be able to print/download bill details along with audit trail.
+1. Checker Remarks: Free-Txt up to 250 CH; Captures any additional details
+required.
+2. Bulk Verification : The user (with Verify permission) also has the option of
+performing the Verify/Reject functions on multiple records collectively from
+the ‘Pending Verification’ screen. This can be achieved by selecting the
+records by ticking against them. Checker Remarks/Remarks : Free-Txt;
+Captures any additional details required
+Note: The collective remarks field overwrites the remarks at each individual
+record level.
+Governmental Paymentscan be searched and viewed from the ‘ Pending Verifi-
+cation Tax Collection’ page.
+Grid Fields (Columnar Format)
+Column Position
+Header Value
+Mandatory Y/N
+1
+Channel Reference
+Y
+2
+Tax Type
+Y
+3
+Bill Nickname
+Y
+4
+Debit Account Number
+Y
+5
+Transaction Date
+Y
+6
+Payment Amount
+Y
+7
+Status
+Y
+8
+Initiated On
+Y
+9
+Initiated By
+Y
+10
+Channel
+Y
+Action:
+The following functions can be performed from pending verification summary
+details.
+S. No
+Function
+Description
+Remarks
+Verify
+The bill will be Verified
+22
+S. No
+Function
+Description
+Remarks
+Reject
+The bill will be rejected with comments
+Back
+The user will be navigated to manage screen
+Tax Collection – Pending Verification
+Upon selection of channel reference, user will be navigated for view details
+screen.
+Pending Verification – View Details:
+Tax Collection - Income Tax Details:
+Field Position
+Field Name
+1
+Channel Reference
+2
+Bill Nickname
+3
+Debit Account Number
+4
+Tax Type
+5
+Enquired By
+6
+Enquiry Reference
+7
+Transaction Date
+8
+Status
+9
+Channel
+Registration Details
+10
+Tax Office Code
+11
+Tax Office Name
+12
+Institution Number
+13
+Institution Name
+14
+Address
+15
+Name
+Payment Request Form
+16
+Tax Period
+17
+Payment Type
+18
+Transaction Amount
+19
+Charge Amount
+20
+VAT Amount
+21
+eFinance Fees
+22
+Total Payment Amount
+Pending Verification – View Details:
+Tax Collection - Sales Tax Details:
+23
+Field Position
+Field Name
+1
+Channel Reference
+2
+Debit Account Number
+3
+Tax Type
+4
+Enquired By
+5
+Enquiry Reference
+6
+Transaction Date
+7
+Status
+8
+Channel
+Registration Details
+9
+Tax Office Code
+10
+Tax Office Name
+11
+Registration Name
+12
+Registration Number
+13
+Registration Type
+14
+Trade Name
+15
+Address
+Payment Request Form
+16
+Tax Period
+17
+Payment Type
+18
+Transaction Amount
+19
+Charge Amount
+20
+VAT Amount
+21
+eFinance Fees
+22
+Total Payment Amount
+Transaction Audit Log:
+S. No
+Field Names
+Field Description
+1
+Group
+Captures group name
+where the user belongs
+to
+2
+Status
+Bill Status
+3
+Action By
+Username who has
+performed the action
+4
+Action On
+Date and Time when
+the action performed
+5
+Remarks
+Remarks which are
+captured by the User
+during the action
+Action:
+The following functions can be performed from pending verification
+summary details.
+S. No
+Function
+Description
+Remarks
+Verify
+The bill will be verified
+Reject
+The bill will be rejected with comments
+Back
+The user will be navigated to the summary screen
+Tax Collection – Pending Verification – View Details
+Pending Approval
+1. This lists all the records which
+24
+
+        Please provide analysis covering:
+        1. Main topics and themes
+        2. Technical specifications (if any)
+        3. Key requirements or objectives
+        4. Potential risks or considerations
+        5. Implementation suggestions
+        <|im_end|>
+<|im_start|>assistant
+2. The user can view the details of the bill by clicking on the ‘Channel Reference’
+value.
+3. The user can perform the ‘Verify’/‘Reject’ functions on the bill.
+4. On clicking the hyperlink of ‘Channel Reference’ value, user will navigate to
+the detailed page where the user can perform ‘Verify’ / ‘Reject ’ function. On
+the same screen, user will be able to view the Audit Trail

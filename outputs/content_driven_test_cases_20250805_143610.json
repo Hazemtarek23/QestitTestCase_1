@@ -1,0 +1,3474 @@
+{
+  "generation_info": {
+    "timestamp": "2025-08-05T14:36:10.942028",
+    "generation_method": "Content-Driven Analysis",
+    "total_test_cases": 100
+  },
+  "project_analysis": {
+    "project_type": "General Software System",
+    "complexity_level": "Complex",
+    "functional_modules": [
+      "\"2. Key Functional Areas/Modules Identified\": [",
+      "\"2. Key Functional Areas/Modules Identified\": [",
+      "\"Governmental Payments Modules (Tax, Customs, Universal Collections)\",",
+      "\"Integration (eFinance APIs, Core Banking System)\",",
+      "\"4. Integration Points and External Systems\": [",
+      "\"Core Banking System (for payment processing after approval/release)\",",
+      "\"priority_areas_for_coverage\": ["
+    ],
+    "business_rules_count": 0,
+    "integration_points": [],
+    "user_roles": [],
+    "recommended_test_cases": {
+      "min": 50,
+      "max": 150
+    }
+  },
+  "test_cases": [
+    {
+      "test_id": "TC001",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3180",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC002",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8488",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC003",
+      "test_name": "Functional - Record Creation and Updates",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Record Creation and Updates functionality in Account Management System",
+      "objective": "Ensure Record Creation and Updates works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Record Creation and Updates",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Record Creation and Updates process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6928",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Record Creation and Updates should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC004",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6589",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC005",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3815",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC006",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2226",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC007",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3505",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC008",
+      "test_name": "Functional - User Login and Authentication",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate User Login and Authentication functionality in Account Management System",
+      "objective": "Ensure User Login and Authentication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for User Login and Authentication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate User Login and Authentication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6675",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "User Login and Authentication should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC009",
+      "test_name": "Functional - User Login and Authentication",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate User Login and Authentication functionality in Account Management System",
+      "objective": "Ensure User Login and Authentication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for User Login and Authentication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate User Login and Authentication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9523",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "User Login and Authentication should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC010",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1050",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC011",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2119",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC012",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3745",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC013",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1669",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC014",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3347",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC015",
+      "test_name": "Functional - Record Creation and Updates",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Record Creation and Updates functionality in Account Management System",
+      "objective": "Ensure Record Creation and Updates works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Record Creation and Updates",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Record Creation and Updates process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9055",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Record Creation and Updates should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC016",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8629",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC017",
+      "test_name": "Functional - User Login and Authentication",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate User Login and Authentication functionality in Account Management System",
+      "objective": "Ensure User Login and Authentication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for User Login and Authentication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate User Login and Authentication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8160",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "User Login and Authentication should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC018",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8644",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC019",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9883",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC020",
+      "test_name": "Functional - Record Creation and Updates",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Record Creation and Updates functionality in Account Management System",
+      "objective": "Ensure Record Creation and Updates works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Record Creation and Updates",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Record Creation and Updates process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9723",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Record Creation and Updates should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC021",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2124",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC022",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5070",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC023",
+      "test_name": "Functional - User Login and Authentication",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate User Login and Authentication functionality in Account Management System",
+      "objective": "Ensure User Login and Authentication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for User Login and Authentication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate User Login and Authentication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST7150",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "User Login and Authentication should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC024",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6603",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC025",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4176",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC026",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST7437",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC027",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3500",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC028",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2504",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC029",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5625",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC030",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8775",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC031",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9432",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC032",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4412",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC033",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5683",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC034",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6162",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC035",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST7701",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC036",
+      "test_name": "Functional - Report Generation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Report Generation functionality in Account Management System",
+      "objective": "Ensure Report Generation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Report Generation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Report Generation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3345",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Report Generation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC037",
+      "test_name": "Functional - Record Creation and Updates",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Record Creation and Updates functionality in Account Management System",
+      "objective": "Ensure Record Creation and Updates works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Record Creation and Updates",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Record Creation and Updates process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3997",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Record Creation and Updates should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC038",
+      "test_name": "Functional - Data Entry and Validation",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Data Entry and Validation functionality in Account Management System",
+      "objective": "Ensure Data Entry and Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Entry and Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Entry and Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5371",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Entry and Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC039",
+      "test_name": "Functional - Search and Filter Operations",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate Search and Filter Operations functionality in Account Management System",
+      "objective": "Ensure Search and Filter Operations works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Search and Filter Operations",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Search and Filter Operations process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4370",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Search and Filter Operations should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC040",
+      "test_name": "Functional - User Login and Authentication",
+      "module": "Account Management System",
+      "category": "Functional",
+      "priority": "High",
+      "description": "Validate User Login and Authentication functionality in Account Management System",
+      "objective": "Ensure User Login and Authentication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for User Login and Authentication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate User Login and Authentication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1523",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "User Login and Authentication should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC041",
+      "test_name": "Security - Session Management",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Session Management functionality in Account Management System",
+      "objective": "Ensure Session Management works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Session Management",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Session Management process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST9092",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Session Management should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC042",
+      "test_name": "Security - Data Encryption",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Data Encryption functionality in Account Management System",
+      "objective": "Ensure Data Encryption works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Encryption",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Encryption process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST2379",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Encryption should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC043",
+      "test_name": "Security - Data Encryption",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Data Encryption functionality in Account Management System",
+      "objective": "Ensure Data Encryption works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Encryption",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Encryption process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST4037",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Encryption should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC044",
+      "test_name": "Security - Data Encryption",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Data Encryption functionality in Account Management System",
+      "objective": "Ensure Data Encryption works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Encryption",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Encryption process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST9054",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Encryption should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC045",
+      "test_name": "Security - Data Encryption",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Data Encryption functionality in Account Management System",
+      "objective": "Ensure Data Encryption works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Encryption",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Encryption process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST8293",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Encryption should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC046",
+      "test_name": "Security - Audit Trail Verification",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Audit Trail Verification functionality in Account Management System",
+      "objective": "Ensure Audit Trail Verification works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Audit Trail Verification",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Audit Trail Verification process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST1845",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Audit Trail Verification should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC047",
+      "test_name": "Security - Session Management",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Session Management functionality in Account Management System",
+      "objective": "Ensure Session Management works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Session Management",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Session Management process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST6722",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Session Management should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC048",
+      "test_name": "Security - Input Sanitization",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Input Sanitization functionality in Account Management System",
+      "objective": "Ensure Input Sanitization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Input Sanitization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Input Sanitization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST2459",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Input Sanitization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC049",
+      "test_name": "Security - Session Management",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Session Management functionality in Account Management System",
+      "objective": "Ensure Session Management works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Session Management",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Session Management process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST9593",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Session Management should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC050",
+      "test_name": "Security - Access Control Validation",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Access Control Validation functionality in Account Management System",
+      "objective": "Ensure Access Control Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Access Control Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Access Control Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST6062",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Access Control Validation should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC051",
+      "test_name": "Security - Input Sanitization",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Input Sanitization functionality in Account Management System",
+      "objective": "Ensure Input Sanitization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Input Sanitization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Input Sanitization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST1169",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Input Sanitization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC052",
+      "test_name": "Security - Audit Trail Verification",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Audit Trail Verification functionality in Account Management System",
+      "objective": "Ensure Audit Trail Verification works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Audit Trail Verification",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Audit Trail Verification process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST2493",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Audit Trail Verification should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC053",
+      "test_name": "Security - Data Encryption",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Data Encryption functionality in Account Management System",
+      "objective": "Ensure Data Encryption works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Encryption",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Encryption process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST2786",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Encryption should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC054",
+      "test_name": "Security - Access Control Validation",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Access Control Validation functionality in Account Management System",
+      "objective": "Ensure Access Control Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Access Control Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Access Control Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST8410",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Access Control Validation should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC055",
+      "test_name": "Security - Input Sanitization",
+      "module": "Account Management System",
+      "category": "Security",
+      "priority": "High",
+      "description": "Validate Input Sanitization functionality in Account Management System",
+      "objective": "Ensure Input Sanitization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Input Sanitization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Input Sanitization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity",
+        "Verify access permissions",
+        "Check audit log entries",
+        "Validate security controls"
+      ],
+      "test_data": {
+        "user_id": "TEST1927",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Input Sanitization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC056",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1728",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC057",
+      "test_name": "Integration - Database Synchronization",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate Database Synchronization functionality in Account Management System",
+      "objective": "Ensure Database Synchronization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Database Synchronization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Database Synchronization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3762",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Database Synchronization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC058",
+      "test_name": "Integration - Database Synchronization",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate Database Synchronization functionality in Account Management System",
+      "objective": "Ensure Database Synchronization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Database Synchronization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Database Synchronization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST7509",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Database Synchronization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC059",
+      "test_name": "Integration - External System Communication",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate External System Communication functionality in Account Management System",
+      "objective": "Ensure External System Communication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for External System Communication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate External System Communication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2437",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "External System Communication should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "15 minutes"
+    },
+    {
+      "test_id": "TC060",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2117",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC061",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8466",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC062",
+      "test_name": "Integration - External System Communication",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate External System Communication functionality in Account Management System",
+      "objective": "Ensure External System Communication works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for External System Communication",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate External System Communication process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8359",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "External System Communication should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC063",
+      "test_name": "Integration - Third-party Service Integration",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate Third-party Service Integration functionality in Account Management System",
+      "objective": "Ensure Third-party Service Integration works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Third-party Service Integration",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Third-party Service Integration process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3062",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Third-party Service Integration should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC064",
+      "test_name": "Integration - Database Synchronization",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate Database Synchronization functionality in Account Management System",
+      "objective": "Ensure Database Synchronization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Database Synchronization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Database Synchronization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3209",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Database Synchronization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC065",
+      "test_name": "Integration - Database Synchronization",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate Database Synchronization functionality in Account Management System",
+      "objective": "Ensure Database Synchronization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Database Synchronization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Database Synchronization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5969",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Database Synchronization should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC066",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8612",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    },
+    {
+      "test_id": "TC067",
+      "test_name": "Integration - Data Import/Export",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate Data Import/Export functionality in Account Management System",
+      "objective": "Ensure Data Import/Export works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Data Import/Export",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Data Import/Export process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2983",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Data Import/Export should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC068",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1128",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "15 minutes"
+    },
+    {
+      "test_id": "TC069",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8945",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC070",
+      "test_name": "Integration - API Data Exchange",
+      "module": "Account Management System",
+      "category": "Integration",
+      "priority": "High",
+      "description": "Validate API Data Exchange functionality in Account Management System",
+      "objective": "Ensure API Data Exchange works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for API Data Exchange",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate API Data Exchange process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3983",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "API Data Exchange should complete successfully with proper validation",
+      "risk_level": "High",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC071",
+      "test_name": "Performance - Scalability Testing",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Scalability Testing functionality in Account Management System",
+      "objective": "Ensure Scalability Testing works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Scalability Testing",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Scalability Testing process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8608",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Scalability Testing should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC072",
+      "test_name": "Performance - Load Testing",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Load Testing functionality in Account Management System",
+      "objective": "Ensure Load Testing works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Load Testing",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Load Testing process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6437",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Load Testing should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC073",
+      "test_name": "Performance - Response Time Validation",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Response Time Validation functionality in Account Management System",
+      "objective": "Ensure Response Time Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Response Time Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Response Time Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8726",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Response Time Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC074",
+      "test_name": "Performance - Concurrent User Handling",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Concurrent User Handling functionality in Account Management System",
+      "objective": "Ensure Concurrent User Handling works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Concurrent User Handling",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Concurrent User Handling process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1057",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Concurrent User Handling should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC075",
+      "test_name": "Performance - Response Time Validation",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Response Time Validation functionality in Account Management System",
+      "objective": "Ensure Response Time Validation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Response Time Validation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Response Time Validation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4361",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Response Time Validation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC076",
+      "test_name": "Performance - Scalability Testing",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Scalability Testing functionality in Account Management System",
+      "objective": "Ensure Scalability Testing works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Scalability Testing",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Scalability Testing process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9021",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Scalability Testing should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "15 minutes"
+    },
+    {
+      "test_id": "TC077",
+      "test_name": "Performance - Concurrent User Handling",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Concurrent User Handling functionality in Account Management System",
+      "objective": "Ensure Concurrent User Handling works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Concurrent User Handling",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Concurrent User Handling process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5020",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Concurrent User Handling should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "15 minutes"
+    },
+    {
+      "test_id": "TC078",
+      "test_name": "Performance - Scalability Testing",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Scalability Testing functionality in Account Management System",
+      "objective": "Ensure Scalability Testing works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Scalability Testing",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Scalability Testing process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8437",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Scalability Testing should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC079",
+      "test_name": "Performance - Resource Utilization",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Resource Utilization functionality in Account Management System",
+      "objective": "Ensure Resource Utilization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Resource Utilization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Resource Utilization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2252",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Resource Utilization should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "8 minutes"
+    },
+    {
+      "test_id": "TC080",
+      "test_name": "Performance - Resource Utilization",
+      "module": "Account Management System",
+      "category": "Performance",
+      "priority": "Low",
+      "description": "Validate Resource Utilization functionality in Account Management System",
+      "objective": "Ensure Resource Utilization works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Resource Utilization",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Resource Utilization process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4471",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Resource Utilization should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC081",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2304",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC082",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6242",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC083",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2945",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "12 minutes"
+    },
+    {
+      "test_id": "TC084",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3740",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC085",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5350",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC086",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2815",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "15 minutes"
+    },
+    {
+      "test_id": "TC087",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5742",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC088",
+      "test_name": "Usability - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Usability",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST3439",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Low",
+      "automation_feasibility": "Medium",
+      "estimated_time": "15 minutes"
+    },
+    {
+      "test_id": "TC089",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1415",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC090",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST2985",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC091",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST1291",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC092",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4917",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC093",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST6560",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "6 minutes"
+    },
+    {
+      "test_id": "TC094",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5080",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "13 minutes"
+    },
+    {
+      "test_id": "TC095",
+      "test_name": "Error Handling - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Error Handling",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST4846",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "11 minutes"
+    },
+    {
+      "test_id": "TC096",
+      "test_name": "Regression - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Regression",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9442",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "10 minutes"
+    },
+    {
+      "test_id": "TC097",
+      "test_name": "Regression - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Regression",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST5334",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "9 minutes"
+    },
+    {
+      "test_id": "TC098",
+      "test_name": "Regression - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Regression",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST9007",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "test_id": "TC099",
+      "test_name": "Regression - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Regression",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST7086",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "7 minutes"
+    },
+    {
+      "test_id": "TC100",
+      "test_name": "Regression - Basic System Operation",
+      "module": "Account Management System",
+      "category": "Regression",
+      "priority": "Low",
+      "description": "Validate Basic System Operation functionality in Account Management System",
+      "objective": "Ensure Basic System Operation works correctly according to requirements",
+      "preconditions": [
+        "Account Management System is deployed and accessible",
+        "Test environment is configured correctly",
+        "Test data is prepared and validated",
+        "User has appropriate permissions for Basic System Operation",
+        "System dependencies are available"
+      ],
+      "test_steps": [
+        "Navigate to Account Management System",
+        "Initiate Basic System Operation process",
+        "Enter required test data",
+        "Execute the operation",
+        "Verify results and system response",
+        "Check for any error conditions",
+        "Validate data integrity"
+      ],
+      "test_data": {
+        "user_id": "TEST8986",
+        "test_value": "Sample Data",
+        "status": "Active"
+      },
+      "expected_result": "Basic System Operation should complete successfully with proper validation",
+      "risk_level": "Medium",
+      "automation_feasibility": "Medium",
+      "estimated_time": "14 minutes"
+    }
+  ]
+}

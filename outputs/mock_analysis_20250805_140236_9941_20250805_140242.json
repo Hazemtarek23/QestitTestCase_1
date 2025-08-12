@@ -1,0 +1,134 @@
+{
+  "generation_info": {
+    "timestamp": "2025-08-05T14:02:42.488581",
+    "method": "Mock intelligent Analysis",
+    "total_test_cases": 65
+  },
+  "project_analysis": {
+    "project_name": "Mock Project Analysis",
+    "complexity_level": "Medium",
+    "files_analyzed": 1
+  },
+  "test_cases": [
+    {
+      "test_id": "TC001",
+      "test_name": "Mock Test Case 1",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC002",
+      "test_name": "Mock Test Case 2",
+      "category": "Integration",
+      "priority": "Low"
+    },
+    {
+      "test_id": "TC003",
+      "test_name": "Mock Test Case 3",
+      "category": "Functional",
+      "priority": "High"
+    },
+    {
+      "test_id": "TC004",
+      "test_name": "Mock Test Case 4",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC005",
+      "test_name": "Mock Test Case 5",
+      "category": "Integration",
+      "priority": "Low"
+    },
+    {
+      "test_id": "TC006",
+      "test_name": "Mock Test Case 6",
+      "category": "Functional",
+      "priority": "High"
+    },
+    {
+      "test_id": "TC007",
+      "test_name": "Mock Test Case 7",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC008",
+      "test_name": "Mock Test Case 8",
+      "category": "Integration",
+      "priority": "Low"
+    },
+    {
+      "test_id": "TC009",
+      "test_name": "Mock Test Case 9",
+      "category": "Functional",
+      "priority": "High"
+    },
+    {
+      "test_id": "TC010",
+      "test_name": "Mock Test Case 10",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC011",
+      "test_name": "Mock Test Case 11",
+      "category": "Integration",
+      "priority": "Low"
+    },
+    {
+      "test_id": "TC012",
+      "test_name": "Mock Test Case 12",
+      "category": "Functional",
+      "priority": "High"
+    },
+    {
+      "test_id": "TC013",
+      "test_name": "Mock Test Case 13",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC014",
+      "test_name": "Mock Test Case 14",
+      "category": "Integration",
+      "priority": "Low"
+    },
+    {
+      "test_id": "TC015",
+      "test_name": "Mock Test Case 15",
+      "category": "Functional",
+      "priority": "High"
+    },
+    {
+      "test_id": "TC016",
+      "test_name": "Mock Test Case 16",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC017",
+      "test_name": "Mock Test Case 17",
+      "category": "Integration",
+      "priority": "Low"
+    },
+    {
+      "test_id": "TC018",
+      "test_name": "Mock Test Case 18",
+      "category": "Functional",
+      "priority": "High"
+    },
+    {
+      "test_id": "TC019",
+      "test_name": "Mock Test Case 19",
+      "category": "Security",
+      "priority": "Medium"
+    },
+    {
+      "test_id": "TC020",
+      "test_name": "Mock Test Case 20",
+      "category": "Integration",
+      "priority": "Low"
+    }
+  ]
+}

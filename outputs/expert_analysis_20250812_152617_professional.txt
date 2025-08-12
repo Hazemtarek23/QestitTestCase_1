@@ -1,0 +1,176 @@
+Expert Analysis Report
+======================
+
+EXECUTIVE SUMMARY
+-----------------
+Comprehensive expert analysis combining document analysis and risk assessment
+
+DETAILED ANALYSIS
+-----------------
+Perform comprehensive risk assessment for: 
+
+User Story: 
+Primary Analysis: 
+Documentation Insights: ['']
+
+Provide detailed risk assessment including:
+1. Categorized risks (technical, business, operational)
+2. Likelihood and impact assessment
+3. Mitigation strategies for each
+
+Provide expert review that:
+1. Validates the document analysis findings
+2. Assesses the completeness of risk identification
+3. Identifies domain-specific considerations
+4. Provides expert recommendations
+5. Highlights critical success factors
+6. Suggests implementation approach
+<|im_end|>
+<|im_start|>system
+Perform comprehensive risk assessment for: 
+
+User Story: 
+Primary Analysis: 
+Documentation Insights: ['']
+
+Provide detailed risk assessment including:
+1. Categorized risks (technical, business, operational)
+2. Likelihood and impact assessment
+3. Mitigation strategies for each
+
+Provide expert review that:
+1. Validates the document analysis findings
+2. Assesses the completeness of risk identification
+3. Identifies domain-specific considerations
+4. Provides expert recommendations
+5. Highlights critical success factors
+6. Suggests implementation approach
+<|im_end|>
+<|im_start|>user
+
+            Perform comprehensive risk assessment for: 
+
+            User Story: 
+            Primary Analysis: 
+            Documentation Insights: ['']
+
+            Provide detailed risk assessment including:
+            1. Categorized risks (technical, business, operational)
+            2. Likelihood and impact assessment
+            3. Mitigation strategies for each
+
+                Provide expert review that:
+                1. Validates the document analysis findings
+                2. Assesses the completeness of risk identification
+                3. Identifies domain-specific considerations
+                4. Provides expert recommendations
+                5. Highlights critical success factors
+                6. Suggests implementation approach
+                <|im_end|>
+<|im_start|>assistant
+Perform comprehensive risk assessment for: 
+
+User Story: 
+Primary Analysis: 
+Documentation Insights: ['']
+
+Provide detailed risk assessment including:
+1. Categorized risks (technical, business, operational)
+2. Likelihood and impact assessment
+3. Mitigation strategies for each
+
+Provide expert review that:
+1. Validates the document analysis findings
+2. Assesses the completeness of risk identification
+3. Identifies domain-specific considerations
+4. Provides expert recommendations
+5. Highlights critical success factors
+6. Suggests implementation approach
+<|im_end|>
+<|im_start|>system
+Perform comprehensive risk assessment for: 
+
+User Story: 
+Primary Analysis: 
+Documentation Insights: ['']
+
+Provide detailed risk assessment including:
+1. Categorized risks (technical, business, operational)
+2. Likelihood and impact assessment
+3. Mitigation strategies for each
+
+Provide expert review that:
+1. Validates the document analysis findings
+2. Assesses the completeness of risk identification
+3. Identifies domain-specific considerations
+4. Provides expert recommendations
+5. Highlights critical success factors
+6. Suggests implementation approach
+<|im_end|>
+<|im_start|>user
+
+            Perform comprehensive risk assessment for: 
+
+            User Story: 
+            Primary Analysis: 
+            Documentation Insights: ['']
+
+            Provide detailed risk assessment including:
+            1. Categorized risks (technical, business, operational)
+            2. Likelihood and impact assessment
+            3. Mitigation strategies for each
+
+                Provide expert review that:
+                1. Validates the document analysis findings
+                2. Assesses the completeness of risk identification
+                3. Identifies domain-specific considerations
+                4. Provides expert recommendations
+                5. Highlights critical success factors
+                6. Suggests implementation approach
+                <|im_end|>
+<|im_start|>assistant
+Perform comprehensive risk assessment for: 
+
+User Story: 
+Primary Analysis: 
+Documentation Insights: ['']
+
+Provide detailed risk assessment including:
+1. Categorized risks (technical, business, operational)
+2. Likelihood and impact assessment
+3. Mitigation strategies for each
+
+Provide expert review that:
+1. Validates the document analysis findings
+2. Assesses the completeness of risk identification
+3. Identifies domain-specific considerations
+4. Provides expert recommendations
+5. Highlights critical success factors
+6. Suggests implementation approach
+<|im_end|>
+<|im_start|>system
+Perform comprehensive risk assessment for: 
+
+User Story: 
+Primary Analysis: 
+Documentation Insights: ['']
+
+Provide detailed risk assessment including:
+1. Categorized risks (technical, business, operational)
+2. Likelihood and impact assessment
+3. Mitigation strategies for each
+
+Provide expert review that:
+1. Validates the document analysis findings
+2. Assesses the completeness of risk identification
+3. Identifies domain-specific considerations
+4. Provides expert recommendations
+5. Highlights critical success factors
+6. Suggests implementation approach
+<|im_end|>
+<|im_start|>user
+
+            Perform comprehensive risk assessment for: 
+
+            User Story: 
+            Primary Analysis
