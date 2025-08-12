@@ -1,0 +1,2 @@
+python -m uvicorn main:app --reload
+"C:/Program Files/Python312/python.exe" e:/Qcentric/main.py

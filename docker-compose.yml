@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  test-case-api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - LLAMA_SERVER_BASE_URL=http://host.docker.internal:8080
+      - LLAMA_MODEL=unsloth.Q4_K_M.gguf
+    volumes:
+      - ./outputs:/app/outputs
+      - ./temp:/app/temp
+      - ./logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
